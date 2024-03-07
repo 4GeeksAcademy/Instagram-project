@@ -50,12 +50,14 @@ div.post {
 }
 div.p1 {
     background: white;
+    display: flex;
+    grid-row: 1/2;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
     margin-top: 10%;
     margin-bottom: 10%;
-    margin-left: 30%;
-    margin-right: 30%;
+    margin-left: 25%;
+    margin-right: 15%;
 
 }
 div.imag-main {
@@ -79,12 +81,14 @@ div.second-post {
 }
 div.p2 {
     background: white;
+    display: flex;
+    grid-row: 1/2;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
     margin-top: 10%;
     margin-bottom: 10%;
-    margin-left: 30%;
-    margin-right: 30%;
+    margin-left: 25%;
+    margin-right: 15%;
 }   
 div.imag2-main {
     background: white;
@@ -115,12 +119,14 @@ div.post3 {
 }
 div.p3 {
     background: white;
+    display: flex;
+    grid-row: 1/2;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
     margin-top: 10%;
     margin-bottom: 10%;
     margin-left: 30%;
-    margin-right: 30%;
+    margin-right: 15%;
 
 }
 div.imag3-main {
