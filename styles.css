@@ -1,0 +1,134 @@
+body{
+    background: #bdbdbd;
+    margin: 0;
+    width: auto;
+    height: auto;
+ 
+}
+
+header {
+    background: white;
+    display: flex;
+    justify-content: center;
+    display: flex;
+}
+h1 {
+    margin: 0;
+    align-items: left;
+    justify-content: left;
+    display: flex;
+}
+h2 {
+    margin-left: -55%;
+    margin-right: 90;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    align-items: left;
+    text-align: left;
+    justify-content: left;
+    
+    
+    
+}
+span {
+    text-align: right;
+    justify-content: right;
+    margin-left: 140%;
+    margin-right: 0;
+    
+    
+}
+div.post {
+    background: white;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-left: 30%;
+    margin-right: 30%;
+    
+}
+div.p1 {
+    background: white;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-left: 30%;
+    margin-right: 30%;
+
+}
+div.imag-main {
+    background: white;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+div.second-post {
+    background: white;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+div.p2 {
+    background: white;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-left: 30%;
+    margin-right: 30%;
+}   
+div.imag2-main {
+    background: white;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+*p {
+    align-items: center;
+    justify-content: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    text-align: center;
+
+}
+div.post3 {
+    background: white;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-left: 30%;
+    margin-right: 30%;
+
+}
+div.p3 {
+    background: white;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-left: 30%;
+    margin-right: 30%;
+
+}
+div.imag3-main {
+    background: white;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-left: 15%;
+    margin-right: 70%;
+}
